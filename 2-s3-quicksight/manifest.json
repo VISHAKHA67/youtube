@@ -2,7 +2,8 @@
    "fileLocations": [
        {
            "URIs": [
-               "s3://BUCKET-NAME/Amazon-Bestseller-Dataset.csv"
+               "s3://campaign-performance-beauty-test
+/KC 2024 Campaigns IST +Digital.csv"
            ]
        }
    ],
